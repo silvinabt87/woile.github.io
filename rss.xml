@@ -1,5 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Willy's blog</title><link>https://woile.github.io/</link><description>Software Engineer, Python dev</description><atom:link href="https://woile.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:santiwilly@gmail.com"&gt;Woile&lt;/a&gt; </copyright><lastBuildDate>Wed, 08 Jul 2020 06:51:47 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>2019 yearly retrospective</title><link>https://woile.github.io/posts/2019-yearly-retrospective/</link><dc:creator>Woile</dc:creator><description>&lt;div&gt;&lt;p&gt;So far it's been great. I just wanted to write a recap for my future self.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Willy's blog</title><link>https://woile.github.io/</link><description>Software Engineer, Python dev</description><atom:link href="https://woile.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:santiwilly@gmail.com"&gt;Woile&lt;/a&gt; </copyright><lastBuildDate>Wed, 08 Jul 2020 09:08:52 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Pyenv</title><link>https://woile.github.io/posts/pyenv/</link><dc:creator>Woile</dc:creator><description>&lt;div&gt;&lt;h3&gt;Description&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://github.com/pyenv/pyenv"&gt;pyenv&lt;/a&gt; is a shell script to manage python versions.
+Works in the user space, avoiding the system's python, therefore is less error prone.
+You can also control a per directory version (this creates a &lt;code&gt;.python-version&lt;/code&gt;).
+Doesn't require python.&lt;/p&gt;
+&lt;h3&gt;Installation&lt;/h3&gt;
+&lt;p&gt;Use &lt;a href="https://github.com/pyenv/pyenv-installer"&gt;pyenv-installer&lt;/a&gt;&lt;/p&gt;
+&lt;pre class="code literal-block"&gt;curl https://pyenv.run &lt;span class="p"&gt;|&lt;/span&gt; bash
+&lt;span class="nb"&gt;exec&lt;/span&gt; &lt;span class="nv"&gt;$SHELL&lt;/span&gt;  &lt;span class="c1"&gt;# Restart shell or open new terminal&lt;/span&gt;
+&lt;/pre&gt;
+
+&lt;h3&gt;Usage&lt;/h3&gt;
+&lt;h4&gt;Install different python versions&lt;/h4&gt;
+&lt;pre class="code literal-block"&gt;pyenv install &lt;span class="m"&gt;3&lt;/span&gt;.6.10
+pyenv install &lt;span class="m"&gt;3&lt;/span&gt;.7.6
+&lt;/pre&gt;
+
+&lt;h4&gt;Set global python&lt;/h4&gt;
+&lt;pre class="code literal-block"&gt;pyenv global &lt;span class="m"&gt;3&lt;/span&gt;.7.6
+&lt;/pre&gt;
+
+&lt;p&gt;Observe&lt;/p&gt;
+&lt;pre class="code literal-block"&gt;python --version
+&lt;span class="nb"&gt;type&lt;/span&gt; -a python
+&lt;/pre&gt;
+
+&lt;h4&gt;Set local python&lt;/h4&gt;
+&lt;pre class="code literal-block"&gt;&lt;span class="nb"&gt;cd&lt;/span&gt; ~/my-project
+pyenv &lt;span class="nb"&gt;local&lt;/span&gt; &lt;span class="m"&gt;3&lt;/span&gt;.6.10
+&lt;/pre&gt;
+
+&lt;p&gt;Observe&lt;/p&gt;
+&lt;pre class="code literal-block"&gt;cat .python-version
+python --version
+&lt;span class="nb"&gt;type&lt;/span&gt; -a python
+&lt;/pre&gt;
+
+&lt;h4&gt;Other languages&lt;/h4&gt;
+&lt;p&gt;There's a set of similar tools for other languages, following the
+same convention here, so if you know &lt;code&gt;pyenv&lt;/code&gt;, you know &lt;code&gt;nodenv&lt;/code&gt; for example.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ruby:&lt;/strong&gt; &lt;a href="https://github.com/rbenv/rbenv"&gt;rbenv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;javascript:&lt;/strong&gt; &lt;a href="https://github.com/nodenv/nodenv"&gt;nodenv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;go:&lt;/strong&gt; &lt;a href="https://github.com/syndbg/goenv"&gt;go&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;php:&lt;/strong&gt; &lt;a href="https://github.com/phpenv/phpenv"&gt;phpenv&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;More resources&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://realpython.com/intro-to-pyenv/"&gt;In depth tutorial by real python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/pyenv/pyenv"&gt;Official docs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><category>python</category><category>python-versions</category><category>tutorial</category><guid>https://woile.github.io/posts/pyenv/</guid><pubDate>Wed, 08 Jul 2020 09:07:26 GMT</pubDate></item><item><title>2019 yearly retrospective</title><link>https://woile.github.io/posts/2019-yearly-retrospective/</link><dc:creator>Woile</dc:creator><description>&lt;div&gt;&lt;p&gt;So far it's been great. I just wanted to write a recap for my future self.&lt;/p&gt;
 &lt;h3&gt;Life&lt;/h3&gt;
 &lt;p&gt;This year will be almost 3 years since I've been in Amsterdam. I love living here.
 The more I think about it the more I'm sure of it: &lt;strong&gt;Amsterdam (or the whole Netherlands) is a bubble&lt;/strong&gt;,
@@ -332,10 +382,4 @@ Just write a dict and you are ready to go.&lt;/p&gt;
 Let's create a few commands which will just print a message.&lt;/p&gt;
 &lt;p&gt;But we are gonna structure the code, the way I always wanted to hehe.&lt;/p&gt;
 &lt;p&gt;The commands will be decoupled from the &lt;em&gt;command line interface&lt;/em&gt; (cli from now on).&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://woile.github.io/posts/creating-a-small-git-like-cli-with-decli/"&gt;Read more…&lt;/a&gt; (5 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><category>git python decli cli tutorial programming</category><guid>https://woile.github.io/posts/creating-a-small-git-like-cli-with-decli/</guid><pubDate>Fri, 14 Sep 2018 17:33:02 GMT</pubDate></item><item><title>Decrypt filesystem</title><link>https://woile.github.io/posts/decrypt-filesystem/</link><dc:creator>Woile</dc:creator><description>&lt;div&gt;&lt;h2&gt;Decrypt ubuntu filesystem&lt;/h2&gt;
-&lt;p&gt;If you have encrypted your drive with one of the latest ubuntu version, this is how to decrypt using the command line.&lt;/p&gt;
-&lt;p&gt;A few weeks ago I had a problem with my ubuntu (as usual) and I had no clue how to decrypt my file, which it's encrypted by my company's policy.&lt;/p&gt;
-&lt;p&gt;Optional: run a &lt;strong&gt;live ubuntu&lt;/strong&gt; if your system is not working properly&lt;/p&gt;
-&lt;h3&gt;First option&lt;/h3&gt;
-&lt;p&gt;Open a terminal and type &lt;code&gt;sudo ecryptfs-unwrap-passphrase&lt;/code&gt;. Most of the time this should do it.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://woile.github.io/posts/decrypt-filesystem/"&gt;Read more…&lt;/a&gt; (1 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><category>encrypt</category><category>linux</category><category>ubuntu</category><guid>https://woile.github.io/posts/decrypt-filesystem/</guid><pubDate>Fri, 13 Jul 2018 21:14:43 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;a href="https://woile.github.io/posts/creating-a-small-git-like-cli-with-decli/"&gt;Read more…&lt;/a&gt; (5 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><category>git python decli cli tutorial programming</category><guid>https://woile.github.io/posts/creating-a-small-git-like-cli-with-decli/</guid><pubDate>Fri, 14 Sep 2018 17:33:02 GMT</pubDate></item></channel></rss>
