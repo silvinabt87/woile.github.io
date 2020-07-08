@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Willy's blog</title><link>https://woile.github.io/</link><description>Software Engineer, Python dev</description><atom:link href="https://woile.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:santiwilly@gmail.com"&gt;Woile&lt;/a&gt; </copyright><lastBuildDate>Wed, 08 Jul 2020 06:51:47 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>2019 yearly retrospective</title><link>https://woile.github.io/posts/2019-yearly-retrospective/</link><dc:creator>Woile</dc:creator><description>&lt;div&gt;&lt;p&gt;So far it's been great. I just wanted to write a recap for my future self.&lt;/p&gt;
+&lt;h3&gt;Life&lt;/h3&gt;
+&lt;p&gt;This year will be almost 3 years since I've been in Amsterdam. I love living here.
+The more I think about it the more I'm sure of it: &lt;strong&gt;Amsterdam (or the whole Netherlands) is a bubble&lt;/strong&gt;,
+even in Europe.
+Most people move around in their bikes, everything just works, everyone enjoys living here,
+there's a huge balance between nature and city.
+It's a cosmopolitan city, full of diversity, alive, but it looks like a small town.&lt;/p&gt;
+&lt;p&gt;Of course it's not perfect and it has its issues, but nothing can be perfect.&lt;/p&gt;
+&lt;h3&gt;Friends&lt;/h3&gt;
+&lt;p&gt;This year I've made a lot of friends, most of them Argentinians.
+It's always nice to experience life with friends. I'm thankful for it.&lt;/p&gt;
+&lt;p&gt;I'm lucky enough to have many friends in many different places, with different ideas,
+desires, experiences. They enrich my mind.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lesson&lt;/strong&gt;: keep making friends; most people are interesting&lt;/p&gt;
+&lt;h3&gt;Books&lt;/h3&gt;
+&lt;p&gt;This year I read 10 out of 12 books I wanted to read.
+Pretty good, but next year I'll read more.
+I feel that in this era of information overload, books are a way to get "curated" information.&lt;/p&gt;
+&lt;h3&gt;Travel&lt;/h3&gt;
+&lt;p&gt;Thanks to randomness and myself, I have the chance to travel quite often.
+This year I've been to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alicante, Spain on my first climbing trip.&lt;/li&gt;
+&lt;li&gt;Tignes, France on my first ski trip.&lt;/li&gt;
+&lt;li&gt;Sharm El Sheikh, Egypt to dive.&lt;/li&gt;
+&lt;li&gt;Istanbul, Turkey and its other cities for tourism.&lt;/li&gt;
+&lt;li&gt;London, UK to visit my sister.&lt;/li&gt;
+&lt;li&gt;Basel, Switzerland attending to attend the Europython conference.&lt;/li&gt;
+&lt;li&gt;Bordeaux, France to give a talk at PyCon France.&lt;/li&gt;
+&lt;li&gt;Gent, Belgium for a festival.&lt;/li&gt;
+&lt;li&gt;Giethoorn, The Netherlands with my mom.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I've reduced the amount of flights I take, in order to reduce my environment impact.
+And I also don't enjoy flying.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lesson&lt;/strong&gt;: traveling expands my mind&lt;/p&gt;
+&lt;h3&gt;Hobby&lt;/h3&gt;
+&lt;p&gt;This year I've released 2 apps:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://rentee.app"&gt;rentee.app&lt;/a&gt; (may not work now due to certificates)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://veck.app"&gt;veck.app&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The first one took around 2 years to be built and the second around 2 weeks.
+Of course, the later was built after the lessons learned.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lesson&lt;/strong&gt;: release early&lt;/p&gt;
+&lt;p&gt;As of today I think that validating against your users is the best way to build services or products,
+&lt;strong&gt;build a core&lt;/strong&gt; and go public. Make a short list of what must be done, and launch.&lt;/p&gt;
+&lt;p&gt;I still have to learn how to communicate and reach wider audiences, but it's going well so far.&lt;/p&gt;
+&lt;p&gt;I'm thankful for having a bunch of enthusistic friends to work with them in our
+ideas and projects.&lt;/p&gt;
+&lt;h3&gt;Languages&lt;/h3&gt;
+&lt;p&gt;I've been trying to improve my Dutch for some time now.
+This last time I've barely started to feel a bit comfortable with it.
+My Duolingo streak is 363 days so far, and I don't plan on stopping.&lt;/p&gt;
+&lt;p&gt;Regarding programming languages, this year I've talked in some conferences and meetups,
+contributed to many open source projects and now I'm also trying to help people who want to learn
+(if you want to, you can always write me for advice).&lt;/p&gt;
+&lt;p&gt;Special mention to the &lt;strong&gt;Python programming language&lt;/strong&gt;, thanks to whom,
+I can do a lot of things in my life :)&lt;/p&gt;
+&lt;p&gt;Next year, I'll try to focus more on languages like rust, which attract me a lot.&lt;/p&gt;
+&lt;h3&gt;Work&lt;/h3&gt;
+&lt;p&gt;My current job so far is great, and I'm thankful for it.
+I work from Monday to Thursday and on Fridays, they let me work on myself.
+The schedule is flexible and no one in my team is counting hours;
+they count the work done instead.
+I won't go into detail because it's stuff I build for the company.&lt;/p&gt;
+&lt;h3&gt;Future&lt;/h3&gt;
+&lt;p&gt;Things I plan to do:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Have a podcast about history.&lt;/li&gt;
+&lt;li&gt;Build (paid) services that help people.&lt;/li&gt;
+&lt;li&gt;Build useful apps for fun.&lt;/li&gt;
+&lt;li&gt;Learn another programming language.&lt;/li&gt;
+&lt;li&gt;Read more books.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Thanks for reading and follow me on Twitter &lt;a href="https://twitter.com/santiwilly"&gt;santiwilly&lt;/a&gt; if you want to know more about my future.&lt;/p&gt;&lt;/div&gt;</description><category>self</category><guid>https://woile.github.io/posts/2019-yearly-retrospective/</guid><pubDate>Tue, 31 Dec 2019 16:40:35 GMT</pubDate></item><item><title>Multiple configurations in kubernetes</title><link>https://woile.github.io/posts/multiple-configurations-in-kubernetes/</link><dc:creator>Woile</dc:creator><description>&lt;div&gt;&lt;p&gt;It may happen to you, that you start working with 2 or more different clusters in
+kubernetes. At this point, you'll want to have multiple config files, instead of
+replacing &lt;code&gt;~/.kube/config&lt;/code&gt;, which is fine the first few times.&lt;/p&gt;
+&lt;p&gt;In order to do this we only need to set &lt;code&gt;KUBECONFIG&lt;/code&gt; env variable with the path to the kubeconfigs.&lt;/p&gt;
+&lt;p&gt;Create a &lt;code&gt;configs&lt;/code&gt; folder, where the kubernetes config files will live.&lt;/p&gt;
+&lt;pre class="code literal-block"&gt;mkdir -p ~/.kube/configs
+&lt;/pre&gt;
+
+&lt;p&gt;The next thing is to add the env variable to our &lt;code&gt;.bashrc&lt;/code&gt;, &lt;code&gt;.zshrc&lt;/code&gt; or &lt;code&gt;.profile&lt;/code&gt; file,
+with the location of our configurations. The paths should be separated by a &lt;code&gt;:&lt;/code&gt;.&lt;/p&gt;
+&lt;pre class="code literal-block"&gt;&lt;span class="nb"&gt;export&lt;/span&gt; &lt;span class="nv"&gt;KUBECONFIG&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="nv"&gt;$HOME&lt;/span&gt;/.kube/configs/gke-config:&lt;span class="nv"&gt;$HOME&lt;/span&gt;/.kube/configs/eks-config
+&lt;/pre&gt;
+
+&lt;p&gt;Reloading our terminal with &lt;code&gt;. ~/.bashrc&lt;/code&gt;, or opening a new one should pick up the changes.&lt;/p&gt;
+&lt;h4&gt;Automating the config detection&lt;/h4&gt;
+&lt;p&gt;Why not automate this? So everytime we add a new kubeconfig, it's detected automatically.&lt;/p&gt;
+&lt;p&gt;Here's my attempt, place this snippet in your &lt;code&gt;.bashrc&lt;/code&gt; or any other terminal file.&lt;/p&gt;
+&lt;pre class="code literal-block"&gt;set_kubeconfig&lt;span class="o"&gt;()&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
+    &lt;span class="k"&gt;for&lt;/span&gt; entry in &lt;span class="s2"&gt;"&lt;/span&gt;&lt;span class="nv"&gt;$HOME&lt;/span&gt;&lt;span class="s2"&gt;/.kube/configs"&lt;/span&gt;/*
+    &lt;span class="k"&gt;do&lt;/span&gt;
+        &lt;span class="c1"&gt;# Get files which do not include "skip"&lt;/span&gt;
+        &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="o"&gt;[&lt;/span&gt; -f &lt;span class="s2"&gt;"&lt;/span&gt;&lt;span class="nv"&gt;$entry&lt;/span&gt;&lt;span class="s2"&gt;"&lt;/span&gt; &lt;span class="o"&gt;]&lt;/span&gt; &lt;span class="o"&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class="o"&gt;[[&lt;/span&gt; &lt;span class="nv"&gt;$entry&lt;/span&gt; !&lt;span class="o"&gt;=&lt;/span&gt; *&lt;span class="s2"&gt;"skip"&lt;/span&gt;* &lt;span class="o"&gt;]]&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="k"&gt;then&lt;/span&gt;
+            &lt;span class="nv"&gt;kubeconfigs&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;"&lt;/span&gt;&lt;span class="nv"&gt;$kubeconfigs&lt;/span&gt;&lt;span class="s2"&gt;:&lt;/span&gt;&lt;span class="nv"&gt;$entry&lt;/span&gt;&lt;span class="s2"&gt;"&lt;/span&gt;
+        &lt;span class="k"&gt;fi&lt;/span&gt;
+    &lt;span class="k"&gt;done&lt;/span&gt;
+
+    &lt;span class="c1"&gt;# Clean first colons&lt;/span&gt;
+    &lt;span class="nv"&gt;kubeconfigs&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="si"&gt;${&lt;/span&gt;&lt;span class="nv"&gt;kubeconfigs&lt;/span&gt;&lt;span class="p"&gt;#&lt;/span&gt;&lt;span class="s2"&gt;":"&lt;/span&gt;&lt;span class="si"&gt;}&lt;/span&gt;
+    &lt;span class="nb"&gt;export&lt;/span&gt; &lt;span class="nv"&gt;KUBECONFIG&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="nv"&gt;$kubeconfigs&lt;/span&gt;
+&lt;span class="o"&gt;}&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Execute the function&lt;/span&gt;
+set_kubeconfig
+&lt;/pre&gt;
+
+&lt;p&gt;This script will get all the &lt;strong&gt;files&lt;/strong&gt; inside &lt;code&gt;~/.kube/configs&lt;/code&gt;,
+which do not include &lt;code&gt;skip&lt;/code&gt; in their name, and will set the &lt;code&gt;KUBECONFIG&lt;/code&gt;
+variable to the found files.&lt;/p&gt;
+&lt;h4&gt;Switching context and namespace&lt;/h4&gt;
+&lt;p&gt;Now that our configs are detected automatically, we still have to change manually between
+contexts and namespaces. I'll leave here the shortcuts&lt;/p&gt;
+&lt;p&gt;Remember that a context is a mix of [cluster, namespace, user].&lt;/p&gt;
+&lt;h5&gt;Current configuration&lt;/h5&gt;
+&lt;pre class="code literal-block"&gt;kubectl config view --minify  &lt;span class="c1"&gt;# without minify we'll see all the configs&lt;/span&gt;
+&lt;/pre&gt;
+
+&lt;h5&gt;List contexts&lt;/h5&gt;
+&lt;pre class="code literal-block"&gt;kubectl config get-contexts
+&lt;/pre&gt;
+
+&lt;h5&gt;Swtich context&lt;/h5&gt;
+&lt;pre class="code literal-block"&gt;kubectl config use-context &amp;lt;context_name&amp;gt;
+&lt;/pre&gt;
+
+&lt;h5&gt;Switch namespace&lt;/h5&gt;
+&lt;pre class="code literal-block"&gt;kubectl config set-context --current --namespace&lt;span class="o"&gt;=&lt;/span&gt;&amp;lt;new_namespace&amp;gt;
+&lt;/pre&gt;
+
+&lt;p&gt;Find me on twitter: &lt;a href="https://twitter.com/santiwilly"&gt;@santiwilly&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Thanks for reading!&lt;/p&gt;&lt;/div&gt;</description><category>configuration</category><category>kubectl</category><category>kubernetes</category><category>linux</category><guid>https://woile.github.io/posts/multiple-configurations-in-kubernetes/</guid><pubDate>Fri, 08 Nov 2019 18:15:28 GMT</pubDate></item><item><title>PyCon France 2019 experience</title><link>https://woile.github.io/posts/pycon-france-2019-experience/</link><dc:creator>Woile</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;img alt="mural in bordeaux city" src="https://woile.github.io/images/pycon-fr-2019/fox.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;This year (2019) I had the opportunity to participate as a speaker at &lt;a href="https://www.pycon.fr/2019/"&gt;PyCon France&lt;/a&gt;,
+and it was a great experience.
+The event was held in &lt;strong&gt;Bordeaux, France&lt;/strong&gt;, a super cozy city, famous for its wines.&lt;/p&gt;
+&lt;p&gt;I realize now that every country claims they have the best wine, including mine.
+I have to say, though, that I loved Bordeaux wines, and I bought 4 to bring back home.&lt;/p&gt;
+&lt;h3&gt;Highlights of PyFrance&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="marcos in bordeaux" src="https://woile.github.io/images/pycon-fr-2019/marcos.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;Everyone was kind to me and I felt really comfortable at the conference.
+It somehow reminded me of the Argentinian PyCon, maybe because it's free for everyone.&lt;/p&gt;
+&lt;p&gt;I really liked the &lt;strong&gt;"badge"&lt;/strong&gt; approach. On arrival, you could pick some "flags".
+I chose the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;"I speak english"&lt;/li&gt;
+&lt;li&gt;"Speaker"&lt;/li&gt;
+&lt;li&gt;"First time"&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Some cool others: "Do not talk to me", "No pics please", "Volunteer".&lt;/p&gt;
+&lt;p&gt;They also had an &lt;strong&gt;automatic captioning tool&lt;/strong&gt;, which generated the transcription
+live.&lt;/p&gt;
+&lt;p&gt;I met a bunch of new people and had some interesting talks.&lt;/p&gt;
+&lt;p&gt;There were some talks I couldn't attend because of the language barrier
+(I don't speak French). But there's no one to blame for this.&lt;/p&gt;
+&lt;p&gt;The talk I enjoyed the most was the keynote about &lt;strong&gt;"The Role of 21st Century Technology in Protests"&lt;/strong&gt;.
+It gave me a lot to think about.
+First, I'm amazed by the creativity and cleverness of the Hong Kong people and
+their constant push to prevent incidents.
+Please look up all the stuff they did to counter police efforts to capture people.
+And second, about the role technology has in society.
+When left in autocratic hands, it can quickly deviate and be used to harm people,
+&lt;strong&gt;no matter how good intentions are at the beginning&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Technology, in the way's being used in some countries, is scary.
+What is even scarier is that people are not aware of the dangers.&lt;/p&gt;
+&lt;p&gt;The only lesson I take from this is that &lt;strong&gt;education&lt;/strong&gt; is key.
+The more education a person receives, the more resilient, and shielded they become
+against foreign evil "human" agents, like vaccines.
+And I mean education, not indoctrination, though in practice it may be harder
+to draw the line.&lt;/p&gt;
+&lt;h3&gt;My Presentation&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="me talking at pycon fr 2019" src="https://woile.github.io/images/pycon-fr-2019/santi.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;I prepared the talk for over 3 weeks: &lt;a href="https://woile.github.io/pytest-presentation/"&gt;Pytest yes, let's go&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Every talk I give takes me a lot of time and effort.
+I find it really hard to come up with the slides quickly.
+Luckily I got positive feedback over my talk, so I left the conference quite proud.&lt;/p&gt;
+&lt;p&gt;For my next pycon (whichever I end up attending), I think I know the topic I'll discuss about: &lt;strong&gt;Documentation&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Thanks for reading!&lt;/p&gt;
+&lt;p&gt;Find me on twitter: &lt;a href="https://twitter.com/santiwilly"&gt;@santiwilly&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>conference</category><category>pycon</category><category>python</category><guid>https://woile.github.io/posts/pycon-france-2019-experience/</guid><pubDate>Tue, 05 Nov 2019 15:59:16 GMT</pubDate></item><item><title>Rust for pythonistas</title><link>https://woile.github.io/posts/rust-for-pythonistas/</link><dc:creator>Woile</dc:creator><description>&lt;div&gt;&lt;h2&gt;RUST FOR PYTHONISTAS&lt;/h2&gt;
+&lt;h3&gt;Data structures with typing&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Python&lt;/th&gt;
+&lt;th&gt;Rust&lt;/th&gt;
+&lt;th&gt;Docs&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;num: int = 1&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;let num: i32 = 1; // used as default integer&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://doc.rust-lang.org/book/ch03-02-data-types.html#integer-types"&gt;integers&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;word: str = "avocado"&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;let word: String = String::from("avocado");&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://doc.rust-lang.org/book/ch08-02-strings.html"&gt;strings&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;point: Tuple = (1, 2)&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;let point: (i32, i32) = (1, 2)&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://doc.rust-lang.org/book/ch03-02-data-types.html#the-tuple-type"&gt;tuples&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;builins&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Python&lt;/th&gt;
+&lt;th&gt;Rust&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;print("holis")&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;println!("holis")&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;map&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;a_vector.into_iter().map()&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;filter&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;a_vector.into_iter().filter()&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;functools.reduce&lt;/code&gt;*&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;a_vector.into_iter().fold()&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;not a builtin but still useful&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Use one variable&lt;/h3&gt;
+&lt;p&gt;Because of immutability and &lt;a href="https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html"&gt;borrowing&lt;/a&gt;, try not to spread variables arround.
+This basically means, do not spread the content of a variable into multiple variables.
+This is not a problem with native data structures, but it's easy to forget about it.&lt;/p&gt;
+&lt;p&gt;In rust something like this will fail:&lt;/p&gt;
+&lt;pre class="code literal-block"&gt;&lt;span class="kd"&gt;let&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;mama&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nb"&gt;String&lt;/span&gt;::&lt;span class="n"&gt;from&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;"pipo"&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="kd"&gt;let&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;moma&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;mama&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;span class="n"&gt;println&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;"{} {}"&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;mama&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;moma&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
+&lt;/pre&gt;
+
+&lt;p&gt;Why? Security and robustness.&lt;/p&gt;
+&lt;h4&gt;Immutability&lt;/h4&gt;
+&lt;p&gt;What does this mean?&lt;/p&gt;&lt;/div&gt;</description><guid>https://woile.github.io/posts/rust-for-pythonistas/</guid><pubDate>Tue, 28 May 2019 08:54:33 GMT</pubDate></item><item><title>Sharing passwords using gopass, git and gpg</title><link>https://woile.github.io/posts/sharing-team-secrets/</link><dc:creator>Woile</dc:creator><description>&lt;div&gt;&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Tired of storing your passwords in unreliable but convenient places?&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Tired of sharing password across unreliable platforms? slack, notes, etc&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Tired of having your team passwords in no specific place?&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;If you have answer to any of this questions with a yes, then you might find&lt;/div&gt;
+&lt;div class="line"&gt;this post quite useful. If your answer was no, read it anyway, you are&lt;/div&gt;
+&lt;div class="line"&gt;already here.&lt;/div&gt;
+&lt;/div&gt;
+&lt;img src="https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif"&gt;&lt;p&gt;&lt;a href="https://woile.github.io/posts/sharing-team-secrets/"&gt;Read more…&lt;/a&gt; (6 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><category>encryption</category><category>gpg</category><category>password manager</category><category>security</category><guid>https://woile.github.io/posts/sharing-team-secrets/</guid><pubDate>Mon, 18 Mar 2019 16:34:36 GMT</pubDate></item><item><title>Raspberry Pi hobby cluster</title><link>https://woile.github.io/posts/raspberries-hobby-cluster/</link><dc:creator>Woile</dc:creator><description>&lt;div&gt;&lt;p&gt;In this tutorial we are gonna try to setup a cluster in our home
+server built with raspberries.&lt;/p&gt;
+&lt;p&gt;In another post I'll describe how to configure a Kubernetes cluster in our raspberries.&lt;/p&gt;
+&lt;p&gt;Kubernetes is a container orchestration tool, it can do all of this:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;p&gt;Automatic bin packing&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Self-healing&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Horizontal scaling&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Service discovery and Load balancing&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Automated rollouts and rollbacks&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Secrets and configuration management&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Storage orchestration&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Long running jobs&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Batch execution&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://woile.github.io/posts/raspberries-hobby-cluster/"&gt;Read more…&lt;/a&gt; (3 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><category>cluster</category><category>docker</category><category>kubernetes</category><category>raspberry</category><guid>https://woile.github.io/posts/raspberries-hobby-cluster/</guid><pubDate>Fri, 22 Feb 2019 07:46:17 GMT</pubDate></item><item><title>Moving from docker alpine to slim</title><link>https://woile.github.io/posts/moving-from-docker-alpine-to-slim/</link><dc:creator>Woile</dc:creator><description>&lt;div&gt;&lt;p&gt;I've been running a docker python3.x image for a long time.
+I've used the base version, the slim and the alpine.&lt;/p&gt;
+&lt;p&gt;Initially I moved from the base python3.6 to the python3.6-slim and everything
+went great. The main win was that no change was required in the Dockerfile,
+it was smaller and more secure (less dependencies, more security, right?)&lt;/p&gt;
+&lt;p&gt;After a while, I decided to move from slim to alpine, because of the size benefit.
+While doing the migration I found these drawbacks:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Renaming dependencies&lt;/strong&gt;. I had to convert from &lt;code&gt;apt&lt;/code&gt; to &lt;code&gt;apk&lt;/code&gt; for every dependency.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Working with edge&lt;/strong&gt;. There's always a problem with the edge repository.
+Sometimes it's down. Sometimes the packages are broken.
+You have to dig a lot in order to have a proper configuration.
+Like using &lt;code&gt;--no-cache&lt;/code&gt; flag in apk. Or setting up the edge repo, then having to upgrade &lt;code&gt;apk-tools&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;This kind of problems break our pipeline when there's no new commit. And I don't want this.
+That's why I've decided to move back to &lt;code&gt;slim&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Don't get me wrong, alpine is great, small and secure, and if you don't have many edge dependencies,
+I guess it'll work flawlessly, and I would totally use it.
+But our image unfortunately has dependencies like postgis, and proj4, which fail a lot in alpine.&lt;/p&gt;
+&lt;p&gt;But my story is not over with alpine, I'll try it again in the future.
+I know with time it will get better and better, and I'll understand it more and more.&lt;/p&gt;&lt;/div&gt;</description><category>linux python containers alpine slim debian</category><guid>https://woile.github.io/posts/moving-from-docker-alpine-to-slim/</guid><pubDate>Sun, 13 Jan 2019 15:34:43 GMT</pubDate></item><item><title>Local HTTPS development in Python with Mkcert</title><link>https://woile.github.io/posts/local-https-development-in-python-with-mkcert/</link><dc:creator>Woile</dc:creator><description>&lt;div&gt;&lt;div class="contents local topic" id="contents"&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference internal" href="https://woile.github.io/posts/local-https-development-in-python-with-mkcert/#about-mkcert" id="id5"&gt;About mkcert&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference internal" href="https://woile.github.io/posts/local-https-development-in-python-with-mkcert/#configuring-mkcert" id="id6"&gt;Configuring mkcert&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference internal" href="https://woile.github.io/posts/local-https-development-in-python-with-mkcert/#python-frameworks" id="id7"&gt;Python frameworks&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference internal" href="https://woile.github.io/posts/local-https-development-in-python-with-mkcert/#uvicorn-starlette" id="id8"&gt;Uvicorn + Starlette&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference internal" href="https://woile.github.io/posts/local-https-development-in-python-with-mkcert/#django-ssl-server" id="id9"&gt;Django SSL Server&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference internal" href="https://woile.github.io/posts/local-https-development-in-python-with-mkcert/#flask" id="id10"&gt;Flask&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference internal" href="https://woile.github.io/posts/local-https-development-in-python-with-mkcert/#gunicorn" id="id11"&gt;Gunicorn&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference internal" href="https://woile.github.io/posts/local-https-development-in-python-with-mkcert/#uwsgi" id="id12"&gt;UWSGI&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference internal" href="https://woile.github.io/posts/local-https-development-in-python-with-mkcert/#security-concerns" id="id13"&gt;Security concerns&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference internal" href="https://woile.github.io/posts/local-https-development-in-python-with-mkcert/#conclusion" id="id14"&gt;Conclusion&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="about-mkcert"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="https://woile.github.io/posts/local-https-development-in-python-with-mkcert/#id5"&gt;About mkcert&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://github.com/FiloSottile/mkcert/"&gt;mkcert&lt;/a&gt; allows you to have a local
+certificate authority (CA).
+This means that you can run your development web server using HTTPS.
+You'll see the green lock in your browser.&lt;/p&gt;
+&lt;img src="https://woile.github.io/images/local-https-development-in-python-with-mkcert/https.png"&gt;&lt;p&gt;You might not need it most of the time, but more and more features require
+HTTPS by default in the browser, like web bluetooth, service workers, web authentication
+and websockets in some cases where SSL is already enabled.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://woile.github.io/posts/local-https-development-in-python-with-mkcert/"&gt;Read more…&lt;/a&gt; (3 min remaining to read)&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</description><category>web frameworks development security https</category><guid>https://woile.github.io/posts/local-https-development-in-python-with-mkcert/</guid><pubDate>Thu, 10 Jan 2019 17:30:24 GMT</pubDate></item><item><title>Tutorial: writing my dreamt cli using decli</title><link>https://woile.github.io/posts/creating-a-small-git-like-cli-with-decli/</link><dc:creator>Woile</dc:creator><description>&lt;div&gt;&lt;p&gt;So for a long time I've been using different cli tools, mostly &lt;code&gt;argparse&lt;/code&gt; because this way I had zero dependencies,
+less worries, this is pure personal preference.&lt;/p&gt;
+&lt;p&gt;Other tools such as click or docopt, the way the code must be written, is not something I'm really fond of.&lt;/p&gt;
+&lt;p&gt;Because of this, I created &lt;a class="reference external" href="https://github.com/Woile/decli"&gt;decli&lt;/a&gt;, which is a declarative command line utility. Super simple.
+Which is basically a wrapper around argparse.
+Just write a dict and you are ready to go.&lt;/p&gt;
+&lt;p&gt;In this tutorial we are gonna try to simulate a &lt;em&gt;git command line tool&lt;/em&gt;.
+Let's create a few commands which will just print a message.&lt;/p&gt;
+&lt;p&gt;But we are gonna structure the code, the way I always wanted to hehe.&lt;/p&gt;
+&lt;p&gt;The commands will be decoupled from the &lt;em&gt;command line interface&lt;/em&gt; (cli from now on).&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://woile.github.io/posts/creating-a-small-git-like-cli-with-decli/"&gt;Read more…&lt;/a&gt; (5 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><category>git python decli cli tutorial programming</category><guid>https://woile.github.io/posts/creating-a-small-git-like-cli-with-decli/</guid><pubDate>Fri, 14 Sep 2018 17:33:02 GMT</pubDate></item><item><title>Decrypt filesystem</title><link>https://woile.github.io/posts/decrypt-filesystem/</link><dc:creator>Woile</dc:creator><description>&lt;div&gt;&lt;h2&gt;Decrypt ubuntu filesystem&lt;/h2&gt;
+&lt;p&gt;If you have encrypted your drive with one of the latest ubuntu version, this is how to decrypt using the command line.&lt;/p&gt;
+&lt;p&gt;A few weeks ago I had a problem with my ubuntu (as usual) and I had no clue how to decrypt my file, which it's encrypted by my company's policy.&lt;/p&gt;
+&lt;p&gt;Optional: run a &lt;strong&gt;live ubuntu&lt;/strong&gt; if your system is not working properly&lt;/p&gt;
+&lt;h3&gt;First option&lt;/h3&gt;
+&lt;p&gt;Open a terminal and type &lt;code&gt;sudo ecryptfs-unwrap-passphrase&lt;/code&gt;. Most of the time this should do it.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://woile.github.io/posts/decrypt-filesystem/"&gt;Read more…&lt;/a&gt; (1 min remaining to read)&lt;/p&gt;&lt;/div&gt;</description><category>encrypt</category><category>linux</category><category>ubuntu</category><guid>https://woile.github.io/posts/decrypt-filesystem/</guid><pubDate>Fri, 13 Jul 2018 21:14:43 GMT</pubDate></item></channel></rss>
