@@ -270,14 +270,12 @@ I'd like to hear opinions about it, how'd you do it?</p>
 </pre>
 
 <h4>Rollback release</h4>
-<pre class="code literal-block"><span></span><code><span class="err">helm rollback &lt;release_name&gt; &lt;revision&gt;</span>
-</code></pre>
-
+<pre class="code literal-block">helm rollback &lt;release_name&gt; &lt;revision&gt;
+</pre>
 
 <h5>Example</h5>
-<pre class="code literal-block"><span></span><code><span class="err">helm rollback auth-service-prod 1</span>
-</code></pre>
-
+<pre class="code literal-block">helm rollback auth-service-prod <span class="m">1</span>
+</pre>
 
 <h5>Notes</h5>
 <ul>
@@ -285,23 +283,20 @@ I'd like to hear opinions about it, how'd you do it?</p>
 <li>Use <code>helm history &lt;release_name&gt;</code> to see the revisions of your <code>release_name</code>.</li>
 </ul>
 <h4>Uninstall release</h4>
-<pre class="code literal-block"><span></span><code>helm uninstall &lt;release_name&gt;
-</code></pre>
-
+<pre class="code literal-block">helm uninstall &lt;release_name&gt;
+</pre>
 
 <p>I won't go deep into this, but just know it exists, and you can remove an existing release.</p>
 <h4>Automating release cycle</h4>
 <p>A recommended best practice to avoid running <code>helm install</code> and <code>helm upgrade</code> <a href="https://helm.sh/docs/howto/charts_tips_and_tricks/#install-or-upgrade-a-release-with-one-command">[7]</a> is to use:</p>
-<pre class="code literal-block"><span></span><code>helm upgrade --install &lt;release_name&gt; --values &lt;custom_values.yaml&gt; &lt;package_name&gt;
-</code></pre>
-
+<pre class="code literal-block">helm upgrade --install &lt;release_name&gt; --values &lt;custom_values.yaml&gt; &lt;package_name&gt;
+</pre>
 
 <p>This can be a benefit in an automated CI/CD pipeline, we let helm perform the check to know if it's a first time,
 or a release upgrade.</p>
 <h5>Example</h5>
-<pre class="code literal-block"><span></span><code>helm upgrade --install auth-service-prod --values charts-values/production/auth-service.yaml ./auth-service
-</code></pre>
-
+<pre class="code literal-block">helm upgrade --install auth-service-prod --values charts-values/production/auth-service.yaml ./auth-service
+</pre>
 
 <h5>Notes</h5>
 <ul>
